@@ -10,9 +10,9 @@ local blips = {
   }
 ```
  
-Title = Name of the blips show in map, inside of quotes marks.
-Colour = Color of blip [Check Here](https://docs.fivem.net/docs/game-references/blips/#blip-colors)
-Id = ID of blip<[Check Here](https://docs.fivem.net/docs/game-references/blips/)
-x, y and z = you can use vector3 command in the place you want to set the blip inside the game.
+* Title = Name of the blips show in map, inside of quotes marks.
+* Colour = Color of blip [Check Here](https://docs.fivem.net/docs/game-references/blips/#blip-colors)
+* Id = ID of blip<[Check Here](https://docs.fivem.net/docs/game-references/blips/)
+* x, y and z = you can use vector3 command in the place you want to set the blip inside the game.
 
 
